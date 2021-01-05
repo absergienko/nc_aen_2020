@@ -17,8 +17,6 @@ For example, the file `cb_n5_k8.txt` contains the codebook with `2^8=256` signal
 
 Every `.MAT` file contains a single variable with the name `ssc`. This variable is a 2D complex-valued array with `2^k` rows and `n` columns. Every row of this array represents one signal from the codebook.
 
-Every `.TXT` file contains an ASCII table of floating-point numbers with `2^k` rows and `2*n` columns. Every row of the table represents one signal from the codebook. The 
-
-first `n` columns contain real parts of the signal samples, remaining `n` columns contain imaginary parts of the signal samples. 
+Every `.TXT` file contains an ASCII table of floating-point numbers with `2^k` rows and `2*n` columns. Every row of the table represents one signal from the codebook. The first `n` columns contain real parts of the signal samples, remaining `n` columns contain imaginary parts of the signal samples. 
 
 The ASCII folder also contains the file `read_codebook_from_ascii_file.m` - MATLAB function for reading a codebook from these ASCII files.

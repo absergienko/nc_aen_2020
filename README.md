@@ -3,7 +3,7 @@ This project contains codebooks for noncoherent transmission obtained using auto
 
 These results are presented in the following paper:
 
-Alexander B. Sergienko, Polina V. Apalina, "Codebook Design for Noncoherent Communications Using Autoencoders," Proc. 2021 IEEE Conference of Russian Young Researchers in Electrical and Electronic Engineering (EIConRus), Saint Petersburg and Moscow, Russia, 2021.
+A. B. Sergienko and P. V. Apalina, "Codebook Design for Noncoherent Communications Using Autoencoders," 2021 IEEE Conference of Russian Young Researchers in Electrical and Electronic Engineering (ElConRus), 2021, pp. 57-61, doi: 10.1109/ElConRus51938.2021.9396178.
 
 The codebooks are presented in two formats: as MATLAB data files (`*.mat`, folder `MAT`) and as ASCII files (`*.txt`, folder `ASCII`)
 
